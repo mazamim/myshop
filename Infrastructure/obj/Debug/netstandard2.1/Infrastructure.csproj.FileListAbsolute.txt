@@ -1,0 +1,24 @@
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+I:\New Projects\ANG and WEPAPI\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+I:\New Projects\ecommerce\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+I:\New Projects\ecommerce\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+I:\New Projects\ecommerce\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+I:\New Projects\ecommerce\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+I:\New Projects\ecommerce\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+I:\New Projects\ecommerce\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

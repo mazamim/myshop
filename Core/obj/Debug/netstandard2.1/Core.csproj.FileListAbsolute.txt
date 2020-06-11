@@ -1,0 +1,18 @@
+I:\New Projects\ANG and WEPAPI\skinet\Core\bin\Debug\netstandard2.1\Core.deps.json
+I:\New Projects\ANG and WEPAPI\skinet\Core\bin\Debug\netstandard2.1\Core.dll
+I:\New Projects\ANG and WEPAPI\skinet\Core\bin\Debug\netstandard2.1\Core.pdb
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.dll
+I:\New Projects\ANG and WEPAPI\skinet\Core\obj\Debug\netstandard2.1\Core.pdb
+I:\New Projects\ecommerce\Core\bin\Debug\netstandard2.1\Core.deps.json
+I:\New Projects\ecommerce\Core\bin\Debug\netstandard2.1\Core.dll
+I:\New Projects\ecommerce\Core\bin\Debug\netstandard2.1\Core.pdb
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.dll
+I:\New Projects\ecommerce\Core\obj\Debug\netstandard2.1\Core.pdb
